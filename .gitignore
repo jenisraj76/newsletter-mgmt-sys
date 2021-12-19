@@ -1,0 +1,14 @@
+.idea/
+node_modules/
+dist/
+tmp/
+*.log
+log/
+coverage/
+.env
+.tscache
+sessions/
+certs/
+env
+package-lock.json
+.nyc_output/
